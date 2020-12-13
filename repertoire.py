@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 
-# Création d'une base de données pour créer un répertoire de contact
+# Création d'une base de données pour créer un répertoire de contacts
 
 
 import sqlite3
